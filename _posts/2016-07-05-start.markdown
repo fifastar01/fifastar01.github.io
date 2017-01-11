@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "Welcome to Zeng Min Blog"
+subtitle:   " \"Hello World\""
+date:       2016-07-05
+author:     "Zeng"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 博客
+---
+
+> "Hey Baby, Let's Rock & Roll."
+
+
+## 终于
+
+曾旻 的 又一次 重新发(kai)明(tong)了 Blog。
+
+基于[GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) , 按Hux提供的模板改了一下，还是比较简单轻松的. 借用这个机会同时熟悉了一下 Git和Github的操作。
+
+中间遇到了一些小坑,主要是因为代理的问题，以后要多多写文章。
