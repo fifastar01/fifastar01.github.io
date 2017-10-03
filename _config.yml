@@ -1,11 +1,11 @@
 # Site settings
 
-title: Zeng Blog
-SEOTitle: 曾旻的博客 | Dennis Min
+title: All About Dennis
+SEOTitle: 曾旻的博客 | Dennis Min Zeng 
 header-img: img/home-bg.jpg
 email: dennisminzeng@gmail.com
-description: "一个博客"
-keyword: "曾旻, 博客, 个人网站, 互联网"
+description: "Interesting things related to tech, AI and the world in general"
+keyword: "曾旻, 博客, 个人网站, 互联网, AI, Tech"
 url: "http://www.dennisminzeng.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -50,7 +50,7 @@ kramdown:
 
 # Disqus settings
 disqus_username: www-dennisminzeng-com
-
+disqus_share: true
 # Duoshuo settings
 duoshuo_username: dennisminzeng
 # Share component is depend on Comment so we can NOT use share only.
@@ -70,7 +70,7 @@ duoshuo_share: false                     # set to false if you want to use Comme
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我所说的,都是对的"
+sidebar-about-description: "No free lunch"
 sidebar-avatar: /img/avatar-zeng.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -87,16 +87,16 @@ friends: [
         title: "星云",
         href: "http://www.dennisminzeng.com"
     },{
-        title: "Foo",
-        href: "#"
+        title: "AVC",
+        href: "http://avc.com/"
     },{
-        title: "Bar",
-        href: "#"
+        title: "Ben Evans",
+        href: "http://ben-evans.com/"
     },{
-        title: "Example Friends",
-        href: "#"
+        title: "Karpathy",
+        href: "http://karpathy.github.io/"
     },{
-        title: "It helps SEO",
-        href: "#"
+        title: "AI Playbook",
+        href: "http://aiplaybook.a16z.com/"
     }
 ]
