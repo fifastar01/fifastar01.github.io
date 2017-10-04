@@ -6,6 +6,7 @@ date:       2016-10-13
 author:     "Dennis"
 header-img: "img/post-bg-2015.jpg"
 tags:
+    - AI
     - Dialogue System
     - Chatbot
     - NLU

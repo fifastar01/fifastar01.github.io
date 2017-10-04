@@ -8,7 +8,7 @@ header-img: "img/post-bg-2015.jpg"
 tags:
     - Dialogue System
     - Chatbot
-    - AI+HI
+    - AI
     - Multi-modal interaction
     - Conversational UI
 ---
