@@ -16,18 +16,22 @@ How AI product can perform depends on advanced algorithm as well as high quality
 ## 1 Inhouse Tagging 
 ## 1 手动标注
 
-It is the most common way to extract and tag raw data. Most CV, NLP and machine learning companies hire a special team to help tag data. Depends on the task, the so-called AI trainer would tag part of data AI need to recognize. 
+It is the most common way to extract and tag raw data. Most CV, NLP and machine learning companies hire a special team to help tag data. Depends on the task, the so-called AI trainer would tag part of data AI need to recognize. The data manager or the AI product manager should be responsible for the speed and quality of data generation.
 雇佣团队来对原始数据进行提取和标注可能是最常见的一种办法。大部分视觉、自然语言处理、机器学习的公司都雇佣了内部的团队来处理标注这些数据。视任务不同，标注人员将需要AI学习的内容标记出来，因此往往他们被称为AI训练师。以自动驾驶的标注为例，AI训练师需要标记出不同的物体的轮廓和特性，比如物体是否静止，是否值得注意等供AI学习。数据负责人需要最终对数据产生的速度和质量把关，让数据尽快进入良性循环。
 
+It is the general way adopted by many companies. Data quality can be high and the process is in well control. However, the cost can be high and it is difficult to tag lots of data in a short period of time.
 内部团队的标注相对来说是一种通用的办法，质量较高也比较可控，几乎每个人工智能创业公司都会使用。但实现成本比较高，同时无法在短时间内快速标注大量数据。
+
 
 ![][image-1]
 
-## 2 Outsource or Crowdcourse
+## 2 Outsource or Crowdsourse
 ## 2 外包或者众包
 
-众包是一种常用的生产大量数据的方法，通过和众包平台的合作，负责人撰写标注的判断标准，并和平台方沟通标注的流程并验收。国外比较出名的是Amazon Turks，国内也有一些大公司和创业公司在提供数据标注外包或者众包服务。
+Crowdsourse is a common way for generating large amounts of data. By 
+cooperating with platform like Amazon turks, the data manager should write detailed specification about data tagging, communite with taggers and check the tagging quality.
 
+It is flexible to outsource the data tagging process with reasonable cost. However, in many cases, private data are too sensitive to open. Also, it might be difficult for taggers from different backgrounds to reach the uniform standard.
 众包的好处是相对比较灵活，成本也比较可控。但是一些公司内部私有的数据不适合公开标注，同时标注者水平也良莠不齐，不一定能处理复杂的标注任务。
 
 ![][image-2]
