@@ -1,21 +1,27 @@
 ---
 layout:     post
-title:      "Welcome to Zeng Min Blog"
+title:      "Welcome to Dennis Blog"
 subtitle:   " \"Hello World\""
 date:       2016-07-05
-author:     "Zeng"
+author:     "Dennis"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 博客
+    - Blog
 ---
 
 > "Hey Baby, Let's Rock & Roll."
 
-
+## Finally
 ## 终于
 
-曾旻 的 又一次 重新发(kai)明(tong)了 Blog。
 
+Dennis reopened blog again. <br/>
+曾旻又一次 重新发(kai)明(tong)了 Blog。
+
+
+Base on [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) , thanks for the template of hux, the process is easy and convinient. Also it is a good chance to get familiar with Git and Github.<br/>
 基于[GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) , 按Hux提供的模板改了一下，还是比较简单轻松的. 借用这个机会同时熟悉了一下 Git和Github的操作。
 
+I met some barrier in hosting, mainly in proxy setting, I need to write more articles in the future.<br/>
 中间遇到了一些小坑,主要是因为代理的问题，以后要多多写文章。
