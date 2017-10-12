@@ -11,24 +11,35 @@ tags:
     - Deep Learning
 ---
 
+AI has become really hot these days. Everybody seems to be talking about singularity, Alpha Go, potential AI take-over. What is AI exactly? This article will try to talk about the basics.<br/>
 如今人工智能似乎成了大众最热情又最陌生的话题，当外行人谈人工智能、谈AlphaGo大战柯洁、谈机器人、谈各种科幻电影时内行人在谈什么？或者说如何装作内行的样子？这篇文章将告诉你谈论人工智能的正确打开方式。
 
-
+### Glossory
 ### 概念
 
-**人工智能**  是最广义的概念，用于描述任何模拟人类智能技术，包括逻辑、if-then规则、决策树、机器学习(包括深度学习)等方法，其中机器学习和深度学习是人工智能中重要的部分。
+**Artificial Intelligence** 
+AI is the broadest term, ­applying to any technique that enables computers to mimic human intelligence, using logic, if-then rules, decision trees, and machine learning (including deep learning).<br/>
+**人工智能**是最广义的概念，用于描述任何模拟人类智能技术，包括逻辑、if-then规则、决策树、机器学习(包括深度学习)等方法，其中机器学习和深度学习是人工智能中重要的部分。
 
-**机器学习** 是人工智能的子集中利用统计方法让机器随着经验的积累在特定任务上的表现能不断提高的技术，该领域包括深度学习。
+**Machine Learning**
+The subset of AI that includes abstruse statistical techniques that enable machines to improve at tasks with experience. The category includes deep learning.<br />
+**机器学习** 
+是人工智能的子集中利用统计方法让机器随着经验的积累在特定任务上的表现能不断提高的技术，该领域包括深度学习。
 
+**Deep Learning**
+The subset of machine learning composed of algorithms that permit software to train itself to perform tasks, like speech and image recognition, by exposing multilayered neural networks to vast amounts of data.<br/>
 **深度学习** 作为机器学习的子集，是一种利用多层神经网络处理大量数据的算法，通常用来处理语音和图像识别的问题。
 
+### Machine Learning
 ### 机器学习
-
+First, let's talk about machine learning. Each machine learning algorithm has three components: representation, evaluation and optimization.<br />
 首先我们说说机器学习，它由三部分组成：表示(模型)、评价（策略）和优化（算法）。机器学习方法的不同，往往是这三者中的某些项不同。
 
 ![模型策略算法]({{ site.baseurl}}/img/ai/algo.png)
 
-按使用方式分类的话，机器学习通常分为**监督式学习**、**增强学习**和**无监督学习**三种，每一种方式的应用都不一样。
+Machine learning can be seperated as [supervised learning](https://en.wikipedia.org/wiki/Supervised_learning), [unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning) and [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning). Each has its different applications.<br />
+按使用方式分类的话，机器学习通常分为[监督式学习](https://zh.wikipedia.org/wiki/%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92)、[无监督学习](https://zh.wikipedia.org/wiki/%E9%9D%9E%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92)和[增强学习](https://zh.wikipedia.org/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)三种，每一种方式的应用都不一样。
+
 
 监督式学习主要是通过标注数据归纳输入和输出的关系，预测新的样本，包括分类和回归。比如：”用户说话的意图是什么？打车还是咖啡”，“用户这个月下单金额可能会是多少？”。
 
